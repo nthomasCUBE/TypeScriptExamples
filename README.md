@@ -9,5 +9,5 @@ Few modified examples adapted from http://www.typescriptlang.org/
 
 ## Good video tutorials
 
-- General overview
+- General overview of typescript, basic types, let/const/...
 [https://www.youtube.com/watch?v=WBPrJSw7yQA]
